@@ -55,7 +55,7 @@
   <distributionManagement>
     <repository>
         <id>commandslistplugin</id>
-        <name>CommandsListPlugin</name>
+        <name>commandslistplugin</name>
         <url>https://github.com/DrRek/CommandsListPlugin</url>
     </repository>
   </distributionManagement>
