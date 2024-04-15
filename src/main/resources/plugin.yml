@@ -1,0 +1,9 @@
+main: it.loneliness.mc.commandsdenylist.CommandsListPlugin
+name: CommandsListPlugin
+version: 0.1
+commands:
+  testt:
+    description: Check if you're allowed to executed blacklisted commands
+    usage: /commandslistplugin
+    permission: commandslistplugin.bypass
+    permission-message: Not allowed
