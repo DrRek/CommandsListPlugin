@@ -1,3 +1,1 @@
-To build:
-
-mvn install
+To build `mvn install`
