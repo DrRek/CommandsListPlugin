@@ -51,4 +51,12 @@
       </resource>
     </resources>
   </build>
+
+  <distributionManagement>
+    <repository>
+        <id>commandslistplugin</id>
+        <name>CommandsListPlugin</name>
+        <url>https://github.com/DrRek/CommandsListPlugin</url>
+    </repository>
+  </distributionManagement>
 </project>
