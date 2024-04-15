@@ -56,7 +56,7 @@
     <repository>
         <id>commandslistplugin</id>
         <name>commandslistplugin</name>
-        <url>https://github.com/DrRek/CommandsListPlugin</url>
+        <url>https://maven.pkg.github.com//DrRek/CommandsListPlugin</url>
     </repository>
   </distributionManagement>
 </project>
